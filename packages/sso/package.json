@@ -55,7 +55,7 @@
     "dependencies": {
         "@better-fetch/fetch": "^1.1.18",
         "better-auth": "workspace:^",
-        "fast-xml-parser": "^5.2.5",
+        "fast-xml-parser": "^5.3.8",
         "jose": "^5.9.6",
         "oauth2-mock-server": "^7.2.0",
         "samlify": "^2.10.0"
